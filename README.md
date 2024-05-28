@@ -1,2 +1,2 @@
 # repo-remoto
-Testando criação de repositórios GitHub
+Clonando repositório depois do clone.
